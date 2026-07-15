@@ -33,7 +33,7 @@ export const mainLinks = [
     name: 'LinkedIn',
     icon: Linkedin,
     iconColor: 'text-blue-400',
-    url: 'https://www.linkedin.com/in/malith-damsara-98686a336',
+    url: 'https://www.linkedin.com/in/malith-damsara-98686a336/',
     gradient: 'from-blue-600 to-blue-800',
     bgColor: 'bg-blue-600 hover:bg-blue-700',
     description: 'Connect on LinkedIn',
